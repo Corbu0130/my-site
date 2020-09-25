@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #dc143c;
+    color: white;
+}
+
+header > nav > a {
+    margin: 10px 20px;
+}
