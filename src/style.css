@@ -4,10 +4,20 @@
 
 header {
     text-align: center;
-    background-color: #dc143c;
-    color: white;
+    background-color: #2020da;
+    color: #ffffff;
 }
 
-header > nav > a {
-    margin: 10px 20px;
+header > nav > button {
+    margin: 5px 10px;
+    background-color: transparent;
+    color: #ffffff;
+}
+.profile {
+    text-align: center;
+    margin: 20px;
+}
+#profile-pic {
+    width: 20%;
+    border-radius: 50%;
 }
